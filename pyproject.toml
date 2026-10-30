@@ -1,6 +1,6 @@
 [project]
 name = "rake-keyword-extractor"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python implementation of the RAKE algorithm for extracting keyphrases from English text with no external dependencies."
 requires-python = ">=3.10"
 dependencies = []
